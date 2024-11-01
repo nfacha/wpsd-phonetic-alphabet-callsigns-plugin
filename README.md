@@ -1,7 +1,7 @@
 # WPSD: Phonetic Alphabet Callsigns with Pin Feature
 
 ## Description
-This Tampermonkey user script enhances the WPSD Dashboard by displaying the phonetic alphabet representation for callsigns. It also allows users to pin callsigns for easy reference. The pinned callsign is displayed prominently below the WPSD Dashboard header, making it convenient to track ongoing communications.
+This Tampermonkey user script enhances the [WPSD Dashboard](https://w0chp.radio/wpsd/) by displaying the phonetic alphabet representation for callsigns. It also allows users to pin callsigns for easy reference. The pinned callsign is displayed prominently below the WPSD Dashboard header, making it convenient to track ongoing communications.
 
 ## Features
 - **Phonetic Alphabet Labels**: Displays phonetic alphabet representations for callsigns present in the WPSD Dashboard.
@@ -22,10 +22,10 @@ This Tampermonkey user script enhances the WPSD Dashboard by displaying the phon
 
 ## Screenshots
 ### Normal View
-![Normal View Placeholder](path/to/normal-view-screenshot.png)
+![Normal View](img/wpsd-main.png)
 
 ### Active Pin View
-![Active Pin View Placeholder](path/to/active-pin-view-screenshot.png)
+![Active Pin View](img/wpsd-pin.png)
 
 ## Changelog
 ### Version 1.1
@@ -34,7 +34,7 @@ This Tampermonkey user script enhances the WPSD Dashboard by displaying the phon
 - The entire pinned section is clickable to remove the pin.
 
 ## Author
-**CS8ACT**
+**[CS8ACT]()**
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the GNU AGPLv3 License.
