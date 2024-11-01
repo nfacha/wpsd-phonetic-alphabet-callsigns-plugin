@@ -34,7 +34,7 @@ This Tampermonkey user script enhances the [WPSD Dashboard](https://w0chp.radio/
 - The entire pinned section is clickable to remove the pin.
 
 ## Author
-**[CS8ACT]()**
+**[CS8ACT](https://www.qrz.com/db/CS8ACT)**
 
 ## License
 This project is licensed under the GNU AGPLv3 License.
